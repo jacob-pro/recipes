@@ -20,7 +20,7 @@ https://recipes.lidl.co.uk/Recipes/Traditional-steak-pie
 - 1 Egg
 
 For sides:
-- White Potatoes
+- White Potatoes (+ Butter + Milk)
 - Peas
 
 ## Method
