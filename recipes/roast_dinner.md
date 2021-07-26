@@ -76,7 +76,7 @@ Taken from: https://www.bbc.co.uk/food/recipes/yorkshire_pudding_69240
 - Preheat the oven to 220C/200C Fan/Gas 7.
 - Mix the flour and salt together in a bowl and make a well in the centre
 - Add the eggs and a little of the milk. Whisk until smooth, then gradually add the remaining milk. 
-- Measure a teaspoon of oil into each hole of a 12-bun tray, transfer to the oven for 5 minutes
+- Measure a teaspoon of sunflower (or vegetable) oil into each hole of a 12-bun tray, transfer to the oven for 5 minutes
 - Remove from the oven and pour the batter equally between the holes or the tin. Return the batter quickly to the oven and cook for 20–25 minutes
 
 ## Pork Sage and Onion Stuffing
