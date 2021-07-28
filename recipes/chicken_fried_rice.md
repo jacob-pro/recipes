@@ -19,11 +19,10 @@ Recipe thanks to my friend Josh
 ## Method
 
 1. Fry chicken in a wok on medium heat with oil until white all over.
-2. Rinse the rice with cold water.
+2. Rinse and soak the rice with cold water, drain with a sieve.
 3. Add bacon and fry until slightly crispy.
-4. Add the rice, and a small amount of salt to 800ml boiling water, and keep on low heat for 12 minutes.
+4. Add the rice and a small amount of salt to 800ml boiling water, and keep on low heat for 12 minutes.
 5. Add the onion, 5 spice, and onion granules, fry until cooked. 
 6. Add peas and fry until defrosted.
-7. Beat an egg, create a pocket in the centre of the wok, add a small amount of sesame oil, and scramble the egg. Once mostly
-   scrambled mix in with the other ingredients. Repeat for each egg.
-8. Once rice is done add to wok on low heat for about 2 minutes, mix in the Soy Sauce
+7. In a separate pan heat some sesame oil, then [scramble the eggs](https://youtu.be/u2MJzEuI0vI?t=299).
+8. Once the rice and eggs are done add to the wok on low heat for about 2 minutes, mix in the Soy Sauce
