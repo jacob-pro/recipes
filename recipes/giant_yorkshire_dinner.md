@@ -43,10 +43,10 @@ For the Gravy see [Roast Dinner - Gravy](./roast_dinner.md#gravy)
 
 ## Photos
 
-![](../images/giant_yorkshire_dinner_1.jpg)
+![](../images/giant_yorkshire_dinner_1_compressed.jpg)
 
-![](../images/giant_yorkshire_dinner_2.jpg)
+![](../images/giant_yorkshire_dinner_2_compressed.jpg)
 
-![](../images/giant_yorkshire_dinner_3.jpg)
+![](../images/giant_yorkshire_dinner_3_compressed.jpg)
 
-![7 inch yorkshire](../images/giant_yorkshire_dinner_4.jpg)
+![7 inch yorkshire](../images/giant_yorkshire_dinner_4_compressed.jpg)
