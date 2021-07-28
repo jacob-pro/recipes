@@ -8,3 +8,4 @@ Cast Iron Skillet Recipes:
 Other Recipes:
 
 - [Roast Dinner](recipes/roast_dinner.md)
+- [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
