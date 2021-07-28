@@ -61,7 +61,7 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 ### Cooking
 
 1. Add the remaining half packet of oreos on the top of the cheesecake.
-2. Place in oven at 175°C for 50 minutes
+2. Place in oven in a hot water bath at 175°C for 50 minutes
 3. Take it out and let it cool.
 4. Put in refrigerator for 4 hours.
 
