@@ -10,7 +10,7 @@ Recipe inspired by my friend Josh
 - 500g Passata / Chopped Tomatoes
 - Cheddar Cheese
 - Italian Hard Cheese / Parmesan
-- Italian Herb Mix / Oregano (70%), Thyme, Basil (5%), Parsley
+- 1 tsp Italian Herb Mix / Oregano (70%), Thyme, Basil (5%), Parsley
 - Garlic
 - Peas
 
