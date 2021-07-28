@@ -13,14 +13,14 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 - 70g Plain Flour
 - 45g Almond Powder
-- 70g Butter
+- 80g Butter
 - 20g Powdered Milk
 - 35g Caster Sugar
 - 10g Cocoa Powder
 
 ### Biscuit Base
 
-- 1 Packet / 154g Oreos
+- 2 Packets Oreos (300g)
 - 70g Butter
 
 ### Filling
@@ -31,8 +31,8 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 - 20g Cornflour 
 - 2 Eggs
 - 150g Double Cream
-- Half Packet / 77g Oreos
-- 40g Chocolate
+- 1 Packet Oreos (150g)
+- 80g Milk/Dark Chocolate
 
 ## Method
 
@@ -40,21 +40,21 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 1. Mix the flour, almond powder, milk powder, and sugar together.
 2. Seperate into two bowls. Add the cocoa powder to just one of them.
-3. Add the butter to each of them.
+3. Divide the butter between the two of them.
 4. Allow the butter to soften. Then rub them with your hands to form larger particles. Store in refrigerator.
 
 ### Base
 
 1. In a food processor or blender pulse the oreos to crumbs.
 2. Melt the butter in a pan, then mix in the oreo crumbs.
-3. Put the mix in the cheesecake tin, compact, then refrigerate.
+3. Put into the cheesecake tin, compact, then refrigerate.
 
 ### Filling
 
 1. Add the sugar to the cream cheese in a bowl and mix.
 2. Add the yoghurt, eggs, cornflour, mixing in each one at a time.
 3. Whip the cream and then mix in.
-4. Crush the oreos and mix in.
+4. Crush half of a packet of the oreos and mix in.
 5. Divide the filling into two bowls. Melt the chocolate and add to one of them.
 6. Pour the two filling mixes into the tin, in layers.
 
