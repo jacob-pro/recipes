@@ -41,4 +41,4 @@ For sides:
 
 ## Photos
 
-![](../images/steak_ale_cheese_pie_1.jpg)
+![](../images/steak_ale_cheese_pie_1_compressed.jpg)
