@@ -9,11 +9,11 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 ## Ingredients
 
-### Crisps
+### Crumble
 
 - 70g Plain Flour
-- 45g Almond Powder
-- 80g Butter
+- 60g Almond Powder
+- 100g Butter
 - 20g Powdered Milk
 - 35g Caster Sugar
 - 10g Cocoa Powder
@@ -36,7 +36,7 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 ## Method
 
-### Crisps
+### Crumble
 
 1. Mix the flour, almond powder, milk powder, and sugar together.
 2. Seperate into two bowls. Add the cocoa powder to just one of them.
@@ -67,3 +67,8 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 ## Photos
 
+![Making the crumble](../images/oreo_crumble_cheesecake_1_compressed.jpg)
+
+![](../images/oreo_crumble_cheesecake_2_compressed.jpg)
+
+![](../images/oreo_crumble_cheesecake_3_compressed.jpg)
