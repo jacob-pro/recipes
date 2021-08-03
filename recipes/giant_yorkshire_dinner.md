@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-Giant Yorkshire - for 10.25" Skillet:
+Giant Yorkshire - for a 10.25" Skillet:
 - 90g flour
 - 120ml milk
 - 2-3 eggs (depending on size)
 
-Large Yorkshire - for medium dish ~7":
+Alternative large Yorkshire - for medium dish ~7":
 - 45g flour
 - 60ml milk
 - 1-2 eggs
@@ -48,5 +48,3 @@ For the Gravy see [Roast Dinner - Gravy](./roast_dinner.md#gravy)
 ![](../images/giant_yorkshire_dinner_2_compressed.jpg)
 
 ![](../images/giant_yorkshire_dinner_3_compressed.jpg)
-
-![7 inch yorkshire](../images/giant_yorkshire_dinner_4_compressed.jpg)

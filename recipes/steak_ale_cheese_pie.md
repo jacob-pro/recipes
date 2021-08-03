@@ -1,9 +1,7 @@
 # Steak, Ale, and Cheese Pie
 
 Adapted from:
-
 https://recipes.lidl.co.uk/Recipes/Traditional-steak-pie
-
 
 ## Ingredients
 
