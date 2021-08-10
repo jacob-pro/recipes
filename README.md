@@ -10,6 +10,7 @@ Mains:
 
 - [Roast Dinner](recipes/roast_dinner.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
+- [Carbonara](recipes/carbonara.md)
 
 Deserts
 
