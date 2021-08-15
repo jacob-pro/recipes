@@ -31,3 +31,4 @@ Taken from: https://www.bbcgoodfood.com/recipes/family-meals-easy-fish-pie-recip
 
 ## Photos
 
+![](../images/fish_pie_1_compressed.jpg)

@@ -29,4 +29,4 @@ Recipe inspired by my friend Josh
 
 ## Photos
 
-![](../images/sausage_pasta_bake_compressed.jpg)
+![](../images/sausage_pasta_bake_1_compressed.jpg)

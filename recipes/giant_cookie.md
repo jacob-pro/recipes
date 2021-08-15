@@ -38,8 +38,9 @@ Recipe from: [http://lemon-sugar.com/2013/04/dark-chocolate-chip-skillet-cookie.
 6. Mix the egg mixture into the skillet
 7. Add the flour and baking soda, very carefully stir until it is all mixed in.
 8. Stir in the vannilla extract and the chocolate.
-9. Bake for 20 minutes.
+9. Bake for 20 or 25 minutes depending on size.
 
 ## Photos
 
+![](../images/giant_cookie_1_compressed.jpg)
 
