@@ -2,7 +2,7 @@
 
 Recipe from my friend [@Nimanao](https://github.com/nimanao)
 
-Please be warned this recipe may be considered offensive by Italians.
+**Please be warned this recipe may be considered offensive by many Italians.**
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ Please be warned this recipe may be considered offensive by Italians.
 - 2-3 Tsp Minced Garlic
 - 500g Spaghetti
 - 2-3 Eggs
-- 200g Parmesan
+- 200g "Italian" hard cheese
 - Peas
 
 ## Method
@@ -26,7 +26,3 @@ Please be warned this recipe may be considered offensive by Italians.
 8. Add the egg mix to the pot.
 9. Stir quickly (optionally put the pot on very low heat)
 10. Season with pepper.
-
-## Photos
-
-![](../images/carbonara_1_compressed.jpg)

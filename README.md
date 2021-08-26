@@ -14,6 +14,7 @@ Mains:
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
 - [Carbonara](recipes/carbonara.md)
 - [Fish Pie](recipes/fish_pie.md)
+- [Chicken Fried Rice](recipes/chicken_fried_rice.md)
 
 Desserts
 

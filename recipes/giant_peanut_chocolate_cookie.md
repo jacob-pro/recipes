@@ -44,7 +44,3 @@ Recipe from: https://www.gimmesomeoven.com/chocolate-peanut-butter-skillet-cooki
 8.  Stir in the vannilla extract and the chocolate.
 9.  Bake for 25 minutes.
 10. Melt some peanut butter in the microwave, then drizzle over the cookie.
-
-## Photos
-
-
