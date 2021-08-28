@@ -11,14 +11,14 @@
 - Cheddar Cheese
 - Lettuce
 - Cucumber
-- Brioche Buns
+- 8 Brioche Buns
 - Mayonaise
 
 ## Method
 
 1. Crush or food process the crackers into fine crumbs.
-2. Mix the pork, crackers, parsley, apple sauce and 1 egg together.
-3. Divide and form into around 6-8 burgers depending on preference.
+2. Mix the pork, crackers, parsley, apple sauce and 1 egg together. Also add some salt and pepper.
+3. Divide and form into 8 burgers.
 4. Refrigerate the burgers until they are needed, it will help them firm up.
 5. For each burger coat in egg, and then coat with the breadcrumbs.
 6. Add some oil to a skillet on medium heat.
