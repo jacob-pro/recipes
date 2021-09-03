@@ -28,7 +28,3 @@ Taken from: https://www.bbcgoodfood.com/recipes/family-meals-easy-fish-pie-recip
 8. Top with the mashed potato. Scrape with a fork to create a ridged texture.
 9. Cover with grated cheese.
 10. Cook for 20-25 minutes at 200°C/fan 180°C/gas mark 6.
-
-## Photos
-
-![](../images/fish_pie_1_compressed.jpg)
