@@ -4,6 +4,7 @@ Cast Iron Skillet Recipes:
 
 - [Steak, Ale, and Cheese Pie](recipes/steak_ale_cheese_pie.md)
 - [Pork Burgers](recipes/pork_burgers.md)
+- [Pan Pizza](recipes/pan_pizza.md)
 - [Giant Yorkshire Dinner](recipes/giant_yorkshire_dinner.md)
 - [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
 - [Giant Cookie](recipes/giant_cookie.md)
