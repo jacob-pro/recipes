@@ -1,8 +1,7 @@
 # Toad in the hole
 
-## Inspiration
-
-https://www.sainsburysmagazine.co.uk/recipes/mains/frying-pan-toad-in-the-hole
+Inspired by: \
+https://www.sainsburysmagazine.co.uk/recipes/mains/frying-pan-toad-in-the-hole \
 https://www.bbcgoodfood.com/recipes/sams-toad-hole
 
 ## Ingredients
