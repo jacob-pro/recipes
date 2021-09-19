@@ -10,7 +10,7 @@ Taken from my friend Josh
 - 2 Tbsp Brown Sugar
 - 2 Tsp Salt
 - 4 Tbsp Olive Oil
-- 250ml Apple Juice
+- 150ml Apple Juice
 - Chinese Duck Style Pancakes
 - Cucumber
 - Spring Onion
