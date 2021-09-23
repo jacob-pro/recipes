@@ -10,6 +10,7 @@ Cast Iron Skillet Recipes:
 - [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
 - [Giant Cookie](recipes/giant_cookie.md)
 - [Giant Peanut Chocolate Cookie](recipes/giant_peanut_chocolate_cookie.md)
+- [Staffordshire Oatcakes](recipes/staffordshire_oatcakes.md)
 
 Mains:
 
