@@ -1,6 +1,6 @@
 # Chilli
 
-Recipe inspirect by my friend Harvey, and Brewdog's *Twice Smoky Chilli*
+Recipe inspired by my friend Harvey, and Brewdog's *Twice Smoky Chilli*
 
 ## Ingredients
 
