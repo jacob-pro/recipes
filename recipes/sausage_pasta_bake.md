@@ -1,17 +1,17 @@
-# Sausage Pasta Bake
+# Josh's Famous Pasta Bake
 
 Recipe inspired by my friend Josh
 
 ## Ingredients
 
-- ~500g Sausage Meat
+- 1 Pack of Caramelised Onion Pork Sausages
 - 2 Onions
 - 400g Fusilli Pasta
-- 500g Passata / Chopped Tomatoes
+- 1 Jar of Garlic and Tomato Pasta Sauce
 - Cheddar Cheese
 - Italian Hard Cheese / Parmesan
-- 1 tsp Italian Herb Mix / Oregano (70%), Thyme, Basil (5%), Parsley
-- Garlic
+- 1 tsp Italian Herb Mix
+- 1 clove or tsp Garlic
 - Peas
 
 ## Method
