@@ -1,6 +1,6 @@
 # Josh's Famous Pasta Bake
 
-Recipe inspired by my friend Josh
+Recipe from my friend Josh
 
 ## Ingredients
 
