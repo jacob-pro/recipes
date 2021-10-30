@@ -33,9 +33,9 @@ Note: In the UK brisket is often sold rolled, but can be unrolled into a flat br
 5. Chop the onions into thick slices and add to the roasting tray.
 6. Caramelise for about 18-20 minutes over medium heat, adding the brown sugar half way through.
 7. Add the tomato puree and mustard and cook for another minute. Stir in the flour.
-8. Stir in the beer and bring to the boil.
-9. Return the brisket to the tray, on top of the onions.
-10. Pour the beef stock all the way around.
+8. Stir in the beer.
+9. Stir in the beef stock and bring to the boil.
+10. Return the brisket to the tray, on top of the onions.
 11. Cover tightly with foil. Place in 140-150°C oven for 4 hours.
 12. Leave it to rest for 20 mins.
 13. Serve with chips and coleslaw.
