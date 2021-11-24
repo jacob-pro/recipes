@@ -18,6 +18,7 @@ Mains:
 - [Cottage Pie](recipes/cottage_pie.md)
 - [Fish Pie](recipes/fish_pie.md)
 - [Chilli](recipes/chilli.md)
+- [Beef Lasagne](recipes/beef_lasagne.md)
 - [Carbonara](recipes/carbonara.md)
 - [Chinese Pork Pancakes](recipes/chinese_pork_pancakes.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
