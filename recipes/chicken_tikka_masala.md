@@ -44,11 +44,4 @@ Taken from: https://cafedelites.com/chicken-tikka-masala/
 7. Stir the cream and 1 teaspoon of sugar through the sauce. Add the chicken and its juices back into the pan and cook for an additional 8-10 minutes until chicken is cooked through and the sauce is thick and bubbling. (Add some water if too thick)
 8. Serve and garnish with coriander.
 
-## Photos
-
-![Cooking the Chicken Tikka](../images/chicken_tikka_masala_1_compressed.jpg)
-
-![Step 7](../images/chicken_tikka_masala_2_compressed.jpg)
-
-![](../images/chicken_tikka_masala_3_compressed.jpg)
 

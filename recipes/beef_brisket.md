@@ -1,4 +1,4 @@
-# BBQ Brisket
+# Beef Brisket
 
 Adapted from 
 
@@ -20,19 +20,19 @@ Adapted from
 - 1 Tbsp Dijon Mustard
 - 2 Tbsp Flour
 - 330ml Bottle of Lager
-- 500ml Beef Stock
+- 200ml Beef Stock
 
 Note: In the UK brisket is often sold rolled, but can be unrolled into a flat brisket. 
 
 ## Method
 
-1. Mix the paprika, celery salt, cumin, and pepper, then rub into the brisket.
-2. Put 2 Tbsp of olive oil into a roasting tray on medium heat.
-3. Place brisket flat side down in a roasting pan. Add any leftover spice mix, and drizzle 1 Tbsp Olive oil on top. 
-4. Cook the brisket for a couple of minutes each side, then remove and set aside.
-5. Chop the onions into thick slices and add to the roasting tray.
-6. Caramelise for about 18-20 minutes over medium heat, adding the brown sugar half way through.
-7. Add the tomato puree and mustard and cook for another minute. Stir in the flour.
+1. Put 3 Tbsp of olive oil into a roasting tray on medium heat.
+2. Place brisket flat side down in a roasting pan. 
+3. Cook the brisket for a couple of minutes each side, then remove and set aside.
+4. Chop the onions into thick slices and add to the roasting tray.
+5. Caramelise for about 18-20 minutes over medium heat, adding the brown sugar half way through.
+6. Add the tomato puree and mustard and cook for another minute. Stir in the flour.
+7. Mix the paprika, celery salt, cumin, and pepper.
 8. Stir in the beer.
 9. Stir in the beef stock and bring to the boil.
 10. Return the brisket to the tray, on top of the onions.
