@@ -6,11 +6,11 @@ Taken from: https://www.youtube.com/watch?v=LFdFx9n2rY8
 
 - 225g Fine Oatmeal
 - 225g Strong White Flour
-- 425ml Water
-- 425ml Milk
 - 1 Tsp Salt
 - 1 Tsp Sugar
 - 7g Dried Yeast
+- 425ml Water
+- 425ml Milk
 - Vegetable/Sunflower Oil
 
 ## Method
