@@ -8,16 +8,16 @@ Adapted from
 ## Ingredients
 
 - Beef Brisket (flat cut)
-- 2 Tsp Paprika
-- 1 Tsp Celery salt
-- 1 Tsp Cumin
-- 1/2 Tsp Ground Black Pepper
-- 1/2 Tsp Cayenne Pepper
 - 2 Tbsp Olive Oil
 - 4 Onions
 - 1 Tbsp Brown Sugar
 - 1 Tbsp Tomato Puree
 - 1 Tbsp Dijon Mustard
+- 2 Tsp Paprika
+- 1 Tsp Celery salt
+- 1 Tsp Cumin
+- 1/2 Tsp Ground Black Pepper
+- 1/2 Tsp Cayenne Pepper
 - 2 Tbsp Flour
 - 330ml Bottle of Lager
 - 200ml Beef Stock
