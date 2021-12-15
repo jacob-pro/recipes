@@ -13,7 +13,7 @@ Adapted from
 - 1 Tsp Cumin
 - 1/2 Tsp Ground Black Pepper
 - 1/2 Tsp Cayenne Pepper
-- 3 Tbsp Olive Oil
+- 2 Tbsp Olive Oil
 - 4 Onions
 - 1 Tbsp Brown Sugar
 - 1 Tbsp Tomato Puree
@@ -26,16 +26,16 @@ Note: In the UK brisket is often sold rolled, but can be unrolled into a flat br
 
 ## Method
 
-1. Put 3 Tbsp of olive oil into a roasting tray on medium heat.
+1. Put 2 Tbsp of olive oil into a roasting tray on medium heat.
 2. Place brisket flat side down in a roasting pan. 
 3. Cook the brisket for a couple of minutes each side, then remove and set aside.
 4. Chop the onions into thick slices and add to the roasting tray.
 5. Caramelise for about 18-20 minutes over medium heat, adding the brown sugar half way through.
-6. Add the tomato puree and mustard and cook for another minute. Stir in the flour.
+6. Add the tomato puree and mustard and cook for another minute.
 7. Mix the paprika, celery salt, cumin, and pepper.
-8. Stir in the beer.
-9. Stir in the beef stock and bring to the boil.
+8. Stir in the flour.
+9. Stir in the beer. Then stir in the beef stock and bring to the boil.
 10. Return the brisket to the tray, on top of the onions.
 11. Cover tightly with foil. Place in 140-150°C oven for 4 hours.
 12. Leave it to rest for 20 mins.
-13. Serve with chips and coleslaw.
+13. Serve with sourdough dinner rolls, chips and coleslaw.

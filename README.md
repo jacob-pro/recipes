@@ -23,6 +23,7 @@ Mains:
 - [Chinese Pork Pancakes](recipes/chinese_pork_pancakes.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
 - [Chicken Fried Rice](recipes/chicken_fried_rice.md)
+- [Beef Brisket](recipes/beef_brisket.md)
 
 Desserts
 
