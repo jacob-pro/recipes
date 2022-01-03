@@ -6,7 +6,7 @@ Recipe inspired by my friend Harvey, and Brewdog's *Twice Smoky Chilli*
 
 - 2 Large Onions
 - 3 Garlic Cloves
-- 750g Beef
+- 750g Beef Mince (~20% fat).
 - 4 teaspoon smoked paprika
 - 2 teaspoon ground cumin
 - 1 teaspoon cayenne Pepper
