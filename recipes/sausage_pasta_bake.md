@@ -26,8 +26,4 @@ Recipe from my friend Josh
 8. Add the peas to the pan for a couple of mins
 9. Combine the pasta and the tomato mix together, then transfer to a ovenproof dish.
 10. Sprinkle cheddar cheese, and then Italian hard cheese
-11. Tranfer to oven for 8-10 mins.
-
-## Photos
-
-![](../images/sausage_pasta_bake_1_compressed.jpg)
+11. Transfer to oven for 8-10 mins.
