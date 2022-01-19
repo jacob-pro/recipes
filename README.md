@@ -24,6 +24,7 @@ Mains:
 - [Chicken Fried Rice](recipes/chicken_fried_rice.md)
 - [Beef Brisket](recipes/beef_brisket.md)
 - [Rum Ham](recipes/rum_ham.md)
+- [Lancashire Hotpot](recipes/lancashire_hotpot.md)
 
 Desserts
 
