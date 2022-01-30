@@ -26,8 +26,13 @@ Mains:
 - [Rum Ham](recipes/rum_ham.md)
 - [Lancashire Hotpot](recipes/lancashire_hotpot.md)
 - [Scotch Pies](recipes/scotch_pies.md)
+- [Fried Chicken](recipes/fried_chicken.md)
 
 Desserts
 
 - [Oreo Crumble Cheesecake](recipes/oreo_crumble_cheesecake.md)
 - [Banoffee Pie](recipes/banoffee_pie.md)
+
+Sides and Miscellaneous
+
+- [Burger Sauce](recipes/burger_sauce.md)
