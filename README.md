@@ -25,6 +25,7 @@ Mains:
 - [Beef Brisket](recipes/beef_brisket.md)
 - [Rum Ham](recipes/rum_ham.md)
 - [Lancashire Hotpot](recipes/lancashire_hotpot.md)
+- [Scotch Pies](recipes/scotch_pies.md)
 
 Desserts
 
