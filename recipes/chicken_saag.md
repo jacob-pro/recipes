@@ -19,7 +19,7 @@ Taken from: https://mission-food.com/chicken-saag/#recipe
 - 200ml Water
 - 480g Baby Spinach
 - 650g Chicken Breast
-- 150ml Natural Yoghurt.
+- 150g Natural Yoghurt.
 
 ## Method
 

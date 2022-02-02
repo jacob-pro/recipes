@@ -7,7 +7,7 @@ Taken from: https://cafedelites.com/chicken-tikka-masala/
 ### Chicken Marinade
 
 - 3 Chicken Breast Fillets (~650g)
-- 1 cup Yoghurt (~250ml)
+- 1 cup Yoghurt (~250g)
 - 1.5 Tbsp minced Garlic
 - 1 Tbsp Ginger
 - 2 Tsp Garam Masala

@@ -27,7 +27,7 @@ http://www.kipkipfun.com/food/super-delicious-oreo-cheese-cake
 
 - 400g Cream Cheese
 - 75g Caster Sugar
-- 150g Greek Yogurt
+- 150g Greek Yoghurt
 - 20g Cornflour 
 - 2 Eggs
 - 150g Double Cream
