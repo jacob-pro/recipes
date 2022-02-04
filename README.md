@@ -31,6 +31,7 @@ Mains:
 Desserts
 
 - [Oreo Crumble Cheesecake](recipes/oreo_crumble_cheesecake.md)
+- [Oreo Cheesecake](recipes/oreo_cheesecake.md)
 - [Banoffee Pie](recipes/banoffee_pie.md)
 
 Sides and Miscellaneous
