@@ -19,6 +19,7 @@ Mains:
 - [Fish Pie](recipes/fish_pie.md)
 - [Chilli](recipes/chilli.md)
 - [Beef Lasagne](recipes/beef_lasagne.md)
+- [Chicken and Chorizo Lasagne](recipes/chicken_chorizo_lasagne.md)
 - [Chinese Pork Pancakes](recipes/chinese_pork_pancakes.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
 - [Chicken Fried Rice](recipes/chicken_fried_rice.md)
