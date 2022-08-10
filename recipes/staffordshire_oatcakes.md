@@ -13,6 +13,8 @@ Taken from: https://www.youtube.com/watch?v=LFdFx9n2rY8
 - 425ml Milk
 - Vegetable/Sunflower Oil
 
+Makes approximately 16 oatcakes.
+
 ## Method
 
 1. Add flour, oatmeal, sugar, salt, and yeast to a mixing bowl.
