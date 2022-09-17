@@ -6,7 +6,7 @@ https://www.kitchensanctuary.com/traditional-lancashire-hotpot/
 
 - 2 Tbsp Butter
 - 1 Tbsp vegetable oil
-- 600g Dice Lamb
+- 600g Diced Lamb (Neck or Shoulder)
 - 2 Brown Onions
 - 1 Heaped Tbsp plain flour
 - 480ml hot chicken or vegetable stock

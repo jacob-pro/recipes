@@ -18,7 +18,7 @@ Taken from: https://cafedelites.com/chicken-tikka-masala/
 
 ### Masala Sauce
 
-- 2 Tbsp Butter
+- 2 Tbsp Ghee (or Butter)
 - 2 Onions
 - 2 Tsp Brown Sugar
 - 1.5 Tbsp Garlic

@@ -22,11 +22,12 @@ Mains:
 - [Chicken and Chorizo Lasagne](recipes/chicken_chorizo_lasagne.md)
 - [Chinese Pork Pancakes](recipes/chinese_pork_pancakes.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
-- [Chicken Fried Rice](recipes/chicken_fried_rice.md)
 - [Beef Brisket](recipes/beef_brisket.md)
 - [Rum Ham](recipes/rum_ham.md)
 - [Lancashire Hotpot](recipes/lancashire_hotpot.md)
 - [Fried Chicken](recipes/fried_chicken.md)
+- [Swedish Meatballs](recipes/swedish_meatballs.md)
+- [Haggis](recipes/haggis.md)
 
 Desserts
 
@@ -38,3 +39,4 @@ Sides and Miscellaneous
 
 - [Burger Sauce](recipes/burger_sauce.md)
 - [Naan Bread](recipes/naan_bread.md)
+- [Onion Bhajis](recipes/onion_bhajis.md)

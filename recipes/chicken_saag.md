@@ -17,7 +17,7 @@ Taken from: https://mission-food.com/chicken-saag/#recipe
 - 1/2 Tsp Indian Chili Powder
 - 2 Tbsp Tomato Paste
 - 200ml Water
-- 480g Baby Spinach
+- 250g Baby Spinach
 - 650g Chicken Breast
 - 150g Natural Yoghurt.
 
