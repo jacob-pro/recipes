@@ -28,6 +28,7 @@ Mains:
 - [Fried Chicken](recipes/fried_chicken.md)
 - [Swedish Meatballs](recipes/swedish_meatballs.md)
 - [Haggis](recipes/haggis.md)
+- [Sanbeiji](recipes/sanbeiji.md)
 
 Desserts
 
