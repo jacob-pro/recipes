@@ -19,5 +19,5 @@ Taken from: https://www.bbcgoodfood.com/recipes/onion-bhajis-raita
 3. Add the water and mix into a thick batter.
 4. Drain the onion and mix into the batter (add extra water if it is too stiff).
 5. Heat about 5cm of oil in a skillet.
-6. Lower balls of the mixture into the pan, cook for a few minutes, turning once, until they are evenly browned
-   and crisp (about 3-4 minutes total). Drain on kitchen paper.
+6. Lower balls of the mixture into the pan, cook, turning once, for at least 4 minutes on each side, until they are 
+   fully brown and crisp. Drain on kitchen paper.
