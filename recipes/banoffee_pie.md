@@ -4,8 +4,8 @@ Adapted from: https://www.pinterest.co.uk/pin/652529433501196149/
 
 ## Ingredients
 
-- 400g Digestive Biscuits (ideally chocolate)
-- 160g Butter
+- 300g Digestive Biscuits (ideally chocolate)
+- 120g Butter
 - 397g Carnation Caramel
 - 3 Bananas
 - 300ml Double Cream
