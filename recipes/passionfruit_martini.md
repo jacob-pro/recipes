@@ -12,8 +12,8 @@ https://www.splashoftaste.com/foolproof-porn-star-martini-recipe/
 - 15 ml Sugar syrup
 - Drop of Vanilla Extract
 - 25 ml Lime juice
-- 50 ml Passion fruit puree
-- 50 ml Passion fruit juice
+- 25 ml Passion fruit puree
+- 75 ml Passion fruit juice
 - 1/2 Passion fruit
 
 ## Method

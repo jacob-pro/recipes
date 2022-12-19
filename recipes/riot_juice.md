@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 25ml Vodka
+- 50ml Vodka
 - 25ml Blue Curacao
-- 25ml Malibu
+- 25ml Pineapple Juice
 - 15ml Sugar Syrup
 - Lemonade
 
