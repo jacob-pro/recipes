@@ -34,6 +34,7 @@ Desserts
 
 - [Oreo Crumble Cheesecake](recipes/oreo_crumble_cheesecake.md)
 - [Oreo Cheesecake](recipes/oreo_cheesecake.md)
+- [Biscoff Cheesecake](recipes/biscoff_cheesecake.md)
 - [Banoffee Pie](recipes/banoffee_pie.md)
 
 Sides and Miscellaneous
@@ -41,3 +42,9 @@ Sides and Miscellaneous
 - [Burger Sauce](recipes/burger_sauce.md)
 - [Naan Bread](recipes/naan_bread.md)
 - [Onion Bhajis](recipes/onion_bhajis.md)
+
+Drinks
+
+- [Passionfruit Martini](recipes/passionfruit_martini.md)
+- [Long Island Iced Tea](recipes/long_island.md)
+- [Riot Juice](recipes/riot_juice.md)
