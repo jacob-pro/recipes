@@ -1,4 +1,4 @@
-# Sanbeiji
+# Sanbeiji (Three Cups Chicken)
 
 Recipe by Roinnsenn
 
