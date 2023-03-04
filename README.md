@@ -20,7 +20,6 @@ Mains:
 - [Chilli](recipes/chilli.md)
 - [Beef Lasagne](recipes/beef_lasagne.md)
 - [Chicken and Chorizo Lasagne](recipes/chicken_chorizo_lasagne.md)
-- [Chinese Pork Pancakes](recipes/chinese_pork_pancakes.md)
 - [Sausage Pasta Bake](recipes/sausage_pasta_bake.md)
 - [Beef Brisket](recipes/beef_brisket.md)
 - [Rum Ham](recipes/rum_ham.md)
@@ -29,6 +28,7 @@ Mains:
 - [Swedish Meatballs](recipes/swedish_meatballs.md)
 - [Haggis](recipes/haggis.md)
 - [Sanbeiji](recipes/sanbeiji.md)
+- [Kimchi Pork Stew](recipes/kimchi_pork_stew.md)
 
 Desserts
 
@@ -42,6 +42,7 @@ Sides and Miscellaneous
 - [Burger Sauce](recipes/burger_sauce.md)
 - [Naan Bread](recipes/naan_bread.md)
 - [Onion Bhajis](recipes/onion_bhajis.md)
+- [Dried Orange Slices](recipes/dried_orange_slices.md)
 
 Drinks
 
