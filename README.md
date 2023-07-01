@@ -7,8 +7,8 @@ Cast Iron Skillet Recipes:
 - [Toad in the hole](mains/toad_in_the_hole.md)
 - [Pan Pizza](mains/pan_pizza.md)
 - [Chicken Tikka Masala](mains/chicken_tikka_masala.md)
-- [Giant Cookie](mains/giant_cookie.md)
-- [Giant Peanut Chocolate Cookie](mains/giant_peanut_chocolate_cookie.md)
+- [Giant Cookie](desserts/giant_cookie.md)
+- [Giant Peanut Chocolate Cookie](desserts/giant_peanut_chocolate_cookie.md)
 - [Staffordshire Oatcakes](mains/staffordshire_oatcakes.md)
 
 Mains:
