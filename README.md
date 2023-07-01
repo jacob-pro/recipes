@@ -28,6 +28,7 @@ Mains:
 - [Haggis](mains/haggis.md)
 - [Sanbeiji](mains/sanbeiji.md)
 - [Kimchi Pork Stew](mains/kimchi_pork_stew.md)
+- [Mississippi Pot Roast](mains/mississippi_pot_roast.md)
 
 Desserts
 
