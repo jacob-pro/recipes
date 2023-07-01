@@ -1,4 +1,4 @@
-# Giant Yorkshire Dinner
+# Giant Yorkshire Pudding
 
 ## Ingredients
 
@@ -7,30 +7,12 @@ Giant Yorkshire - for a 10.25" Skillet:
 - 120ml milk
 - 2-3 eggs (depending on size)
 
-Alternative large Yorkshire - for medium dish ~7":
+Big Yorkshire - for medium dish ~7":
 - 45g flour
 - 60ml milk
 - 1-2 eggs
 
-Roast Ingredients:
-- Beef roasting joint
-- 1 Red Onion
-- Thyme
-- Rosemary
-- Flour
-- Beef Stock
-- Carrots
-- Marris Piper Potatoes
-- Parsnips
-- Peas
-
 ## Method
-
-For the Beef see [Roast Dinner - Beef](./roast_dinner.md#beef) 
-
-For the Vegetables see [Roast Dinner - Vegetables](./roast_dinner.md#vegetables) 
-
-For the Gravy see [Roast Dinner - Gravy](./roast_dinner.md#gravy) 
 
 ### Yorkshire
 
