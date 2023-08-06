@@ -29,6 +29,8 @@ Mains:
 - [Sanbeiji](mains/sanbeiji.md)
 - [Kimchi Pork Stew](mains/kimchi_pork_stew.md)
 - [Mississippi Pot Roast](mains/mississippi_pot_roast.md)
+- [Pork Yakiniku](mains/yakiniku.md)
+- [King Prawn Chow Mein](mains/king_prawn_chow_mein.md)
 
 Desserts
 
@@ -44,6 +46,7 @@ Sides and Miscellaneous
 - [Onion Bhajis](sides/onion_bhajis.md)
 - [Dried Orange Slices](sides/dried_orange_slices.md)
 - [Giant Yorkshire Dinner](sides/giant_yorkshire.md)
+- [Chicken Soup](sides/chicken_soup.md)
 
 Drinks
 
