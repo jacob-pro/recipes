@@ -31,6 +31,8 @@ Mains:
 - [Mississippi Pot Roast](mains/mississippi_pot_roast.md)
 - [Pork Yakiniku](mains/yakiniku.md)
 - [King Prawn Chow Mein](mains/king_prawn_chow_mein.md)
+- [Thai Red Curry](mains/thai_red_curry.md)
+- [Chicken Katsu Curry](mains/chicken_katsu_curry.md)
 
 Desserts
 

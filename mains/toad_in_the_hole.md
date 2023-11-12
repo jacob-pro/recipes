@@ -33,10 +33,10 @@ Total for medium and large skillet:
 2. Make a well in the middle, crack eggs into it.
 3. (Electric) whisk it together, whilst slowly adding the milk.
 4. Heat the oven to 220°C / Fan 200°C / Gas 7.
-5. Add either Sunflower oil / vegetable oil / lard to the skillet(s), and cook sausages for 8 mins, turning frequently.
-6. Turn the temperature up to high, and then pour the batter into the skillet(s).
-7. Transfer to the oven for 20-25 mins
-8. Serve with mashed potatoes, peas, and gravy
+5. Add either sunflower or vegetable oil to the skillet(s), and cook sausages for 4 min, turning frequently.
+6. Turn the temperature up to high, and then pour the batter into the centre of the skillet(s).
+7. Transfer to the oven for 20-25 min.
+8. Serve with mashed potatoes, peas, and gravy.
 
 ## Onion Gravy
 
