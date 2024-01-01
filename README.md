@@ -33,6 +33,10 @@ Mains:
 - [King Prawn Chow Mein](mains/king_prawn_chow_mein.md)
 - [Thai Red Curry](mains/thai_red_curry.md)
 - [Chicken Katsu Curry](mains/chicken_katsu_curry.md)
+- [Paella](mains/paella.md)
+- [ChatGPT Pasta](mains/chat_gpt_pasta.md)
+- [Carbonara](mains/carbonara.md)
+- [Salt and Pepper Pork](mains/salt_pepper_pork.md)
 
 Desserts
 

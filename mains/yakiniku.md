@@ -16,7 +16,7 @@ Recipe by Roinnsenn
 - 1 tsp Miso Paste
 - 5 tbsp Mirin
 - 1 tbsp Sugar
-- 1 Bay Leave
+- 1 Bay Leaf
 
 
 ### Method
