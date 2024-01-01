@@ -8,16 +8,16 @@ Recipe by Roinnsenn
 - 4 Spring Onions
 - 3 Cloves of Garlic
 - 500g Pork Belly
-- 1 Pot Kimchi
+- 300g Kimchi
 - 1 box Tofu
 - Eggs 1 per person
 - 1 tbsp Sesame Oil
-- 4 cups Water
+- 950ml Water
 - 1 tsp Salt
 - 1 tsp Black Pepper
 - 2 tsp Sugar
 - 1 tsp Soy Bean Paste
-- 1 tbsp Gochujang
+- 1/2 tbsp Gochujang
 
 
 ## Method
@@ -27,7 +27,7 @@ Recipe by Roinnsenn
 2. Fry the pork with sesame oil until brown.
 3. Add kimchi and cook for a few minutes.
 4. Add onion and garlic and cook for a few minutes.
-5. Pour in the water, add black pepper, sugar, soy bean paste and gochujang.
+5. Pour in the water, add black pepper, sugar, salt, soy bean paste and gochujang.
 6. Simmer for 15 minutes.
 7. Turn up the heat, and add eggs.
 8. Take the eggs out
