@@ -37,6 +37,7 @@ Mains:
 - [ChatGPT Pasta](mains/chat_gpt_pasta.md)
 - [Carbonara](mains/carbonara.md)
 - [Salt and Pepper Pork](mains/salt_pepper_pork.md)
+- [Tagliatelle Con Pollo](mains/tagliatelle_con_pollo.md)
 
 Desserts
 

@@ -10,6 +10,7 @@
 - 500g Passata
 - 95g Red Pesto
 - 1 Tbsp Hendersons Relish (or Worcestershire sauce)
+- 2 Tsp Italian Herbs
 - 1 Beef Stock Cube
 - 50g Butter
 - 50g Flour
@@ -22,8 +23,8 @@
 1. Dice the onions and finely chop the peppers.
 2. In a saucepan add some oil, soften up the pepper and onions for 5-10 minutes.
 3. Then and the mince and brown.
-4. Add the garlic, passata, pesto, relish, and stock cube, one at a time stirring in well. Cook for a little while.
-5. Meanwhile melt butter in another pan.
+4. Add the garlic, passata, pesto, relish, stock cube, and herbs, one at a time stirring in well. Cook for a little while.
+5. Meanwhile, melt butter in another pan.
 6. Quickly stir in the flour so it makes a paste.
 7. Gradually add in the milk and mix well, stir continuously until thickened up, add a little grated cheddar.
 8. Layer lasagne sheets in a dish, first cover the bottom of your dish then add the meat then sauce and repeat. 
