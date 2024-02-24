@@ -19,7 +19,7 @@ Mains:
 - [Chilli](mains/chilli.md)
 - [Beef Lasagne](mains/beef_lasagne.md)
 - [Chicken and Chorizo Lasagne](mains/chicken_chorizo_lasagne.md)
-- [Josh' Famous Pasta Bake](mains/sausage_pasta_bake.md)
+- [Sausage Pasta Bake](mains/sausage_pasta_bake.md)
 - [Beef Brisket](mains/beef_brisket.md)
 - [Rum Ham](mains/rum_ham.md)
 - [Lancashire Hotpot](mains/lancashire_hotpot.md)
