@@ -1,4 +1,4 @@
-# Josh's Famous Pasta Bake
+# Sausage Pasta Bake
 
 ## Ingredients
 
