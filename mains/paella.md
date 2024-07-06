@@ -19,7 +19,7 @@ Based on:
 - Chicken Thigh
 - Fresh chopped parsley
 - 3/4 cup Paella Rice
-- 450ml Chicken Stock
+- 500ml Chicken Stock
 - Seafood (Prawns, Mussels, Calamari, Scallops, etc.)
 
 ## Method
