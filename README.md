@@ -19,7 +19,6 @@ American:
 
 - [Beef Brisket](mains/beef_brisket.md)
 - [Chilli](mains/chilli.md)
-- [Fried Chicken](mains/fried_chicken.md)
 - [Mississippi Pot Roast](mains/mississippi_pot_roast.md)
 - [Pan Pizza](mains/pan_pizza.md)
 - [Rum Ham](mains/rum_ham.md)
@@ -45,6 +44,7 @@ Asian:
 - [Sanbeiji](mains/sanbeiji.md)
 - [Steamed Sea Bass](mains/steamed_sea_bass.md)
 - [Thai Red Curry](mains/thai_red_curry.md)
+- [Taiwanese Fried Chicken](mains/taiwan_fried_chicken)
 
 Desserts
 
