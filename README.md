@@ -44,7 +44,7 @@ Asian:
 - [Sanbeiji](mains/sanbeiji.md)
 - [Steamed Sea Bass](mains/steamed_sea_bass.md)
 - [Thai Red Curry](mains/thai_red_curry.md)
-- [Taiwanese Fried Chicken](mains/taiwan_fried_chicken)
+- [Taiwanese Fried Chicken](mains/taiwan_fried_chicken.md)
 
 Desserts
 

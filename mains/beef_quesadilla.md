@@ -21,7 +21,7 @@ https://girlheartfood.com/cheesy-ground-beef-quesadillas/
 Steps:
 
 1. Finely dice the red onion and tomato. 
-2. Pan fry with a little oil for 3 minutes.
+2. Pan fry the onion with a little oil for 3 minutes.
 3. Add the beef mince and fry for 3-4 minutes until lightly browned.
 4. Add the diced tomato and the rest of the ingredients, cook for 5 minutes.
 

@@ -39,7 +39,7 @@ Steps:
 
 ## Seasoning
 
-- Smoked paprika
+- Paprika
 - Chilli powder
 - Ajinomoto Aji-Shio Pepper Seasoning
 - White pepper
