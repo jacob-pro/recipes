@@ -45,6 +45,8 @@ Asian:
 - [Steamed Sea Bass](mains/steamed_sea_bass.md)
 - [Thai Red Curry](mains/thai_red_curry.md)
 - [Taiwanese Fried Chicken](mains/taiwan_fried_chicken.md)
+- [Chicken Soup](mains/chicken_soup.md)
+- [Easy Pork Ramen](mains/pork_ramen.md)
 
 Desserts
 
@@ -61,8 +63,6 @@ Sides and Miscellaneous
 - [Naan Bread](sides/naan_bread.md)
 - [Onion Bhajis](sides/onion_bhajis.md)
 - [Dried Orange Slices](sides/dried_orange_slices.md)
-- [Giant Yorkshire Dinner](sides/giant_yorkshire.md)
-- [Chicken Soup](sides/chicken_soup.md)
 
 Drinks
 
